@@ -1,4 +1,4 @@
-  
+//this is the second commit in my program 
 // CLASS EXAMPLE INITIALIZE THROUGH METHOD 
 
   /*class Student
