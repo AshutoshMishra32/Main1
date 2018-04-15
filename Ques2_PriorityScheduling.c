@@ -55,9 +55,9 @@ for(time = pqueue[0].at; time < bt;)
   if(pqueue[i].at <= time && pqueue[i].status != 1 && pqueue[i].priority > pqueue[l].priority)
   {
    l = i;
-} 
 }
-
+}
+printf("%s","Ashu");
 
 time = time + pqueue[l].bt;
 pqueue[l].ct = time;
