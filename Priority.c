@@ -57,7 +57,6 @@ for(time = pqueue[0].at; time < bt;)
    l = i;
 }
 }
-printf("%s","Ashu");
 
 time = time + pqueue[l].bt;
 pqueue[l].ct = time;
